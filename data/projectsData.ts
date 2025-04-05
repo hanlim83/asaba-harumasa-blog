@@ -7,20 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'To Yanagi',
+    description: `To get our snack-loving colleague to attend the meeting, you'd go this far? Really... um... Deputy Chief, I think I've already gone above and beyond with my workload today. Could I maybe take next week off? 😃😃😃`,
+    imgSrc: '/static/images/snack-loving-workload.jpg',
+    href: 'https://x.com/ZZZ_EN/status/1854018424235811032',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Yes, that is the chief laughing',
+    description: `It may not seem like it, but trust me, that is what a real laugh from the chief sounds like. No kidding.`,
+    imgSrc: '/static/images/miyabi-laughing.jpg',
+    href: 'https://x.com/ZZZ_EN/status/1869246226996068738/',
   },
 ]
 
